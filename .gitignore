@@ -1,4 +1,4 @@
-# Projects
+#Projects
 logs/
 .cache
 .DS_Store
@@ -39,11 +39,11 @@ bower_components
 build/Release
 
 # Dependency directories
-node_modules/
+frontend/node_modules/
 jspm_packages/
-public/build/
-android/
-package-lock.json
+frontend/public/build/
+frontend/android/
+frontend/package-lock.json
 
 # TypeScript v1 declaration files
 typings/
